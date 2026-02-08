@@ -1,5 +1,5 @@
 # 💫 About Me:
-Backend-focused programmer worked on Core Java, Spring basics, Springboot, HTML, CSS, Javascript, MySQL, Hibernate ORM, Spring Data JPA.<br>I build clean, layered applications with manual transaction handling and proper data access control.<br>Currently strengthening fundamentals.
+Backend-focused programmer worked on Core Java, Spring basics, Springboot, HTML, CSS, Javascript, MySQL, JDBC, Hibernate ORM, Spring Data JPA.<br>I build clean, layered applications with manual transaction handling and proper data access control.<br>Currently strengthening fundamentals.
 
 
 ## 🌐 Socials:
