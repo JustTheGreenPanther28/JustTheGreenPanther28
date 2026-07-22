@@ -51,6 +51,17 @@ Backend-focused programmer worked on Core Java, Spring basics, Springboot, HTML,
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white)
 
+# 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=JustTheGreenPanther28&theme=dark&hide_border=false&include_all_commits=true&count_private=false" height="180"/>
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=JustTheGreenPanther28&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=JustTheGreenPanther28&theme=dark&hide_border=false" />
+</p>
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JustTheGreenPanther28/JustTheGreenPanther28/output/github-contribution-grid-snake-dark.svg">
