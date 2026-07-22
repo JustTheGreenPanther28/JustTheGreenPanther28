@@ -54,12 +54,12 @@ Full stack programmer worked on Core Java, Spring basics, Springboot, HTML, CSS,
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=JustTheGreenPanther28&theme=dark&hide_border=false&include_all_commits=true&count_private=false" height="180"/>
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=JustTheGreenPanther28&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" height="180"/>
+  <img src="https://github-readme-stats.shion.dev/api?username=JustTheGreenPanther28&theme=dark&hide_border=true&include_all_commits=true&count_private=true" height="180"/>
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=JustTheGreenPanther28&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=JustTheGreenPanther28&theme=dark&hide_border=false" />
+  <img src="https://streak-stats.demolab.com?user=JustTheGreenPanther28&theme=dark&hide_border=true" />
 </p>
 
 
@@ -68,3 +68,4 @@ Full stack programmer worked on Core Java, Spring basics, Springboot, HTML, CSS,
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JustTheGreenPanther28/JustTheGreenPanther28/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/JustTheGreenPanther28/JustTheGreenPanther28/output/github-contribution-grid-snake.svg">
 </picture>
+
