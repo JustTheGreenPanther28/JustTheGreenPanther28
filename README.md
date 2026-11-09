@@ -52,12 +52,6 @@ Full stack programmer worked on Core Java, Spring basics, Springboot, HTML, CSS,
 ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white)
 
 # 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=JustTheGreenPanther28&theme=dark&hide_border=true"/>
-</p>
-
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JustTheGreenPanther28/JustTheGreenPanther28/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JustTheGreenPanther28/JustTheGreenPanther28/output/github-contribution-grid-snake.svg">
