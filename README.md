@@ -54,11 +54,6 @@ Full stack programmer worked on Core Java, Spring basics, Springboot, HTML, CSS,
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=JustTheGreenPanther28&show_icons=true&theme=dark&hide_border=true&include_all_commits=true" height="180"/>
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=JustTheGreenPanther28&layout=compact&theme=dark&hide_border=true" height="180"/>
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=JustTheGreenPanther28&theme=dark&hide_border=true"/>
 </p>
 
